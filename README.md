@@ -1,4 +1,4 @@
-## Hi there!
+## Hi there 👋, I'm Caitlin!
 
 I'm currently studying a Bachelor of Mathematical and Computer Sciences and a Bachelor of Project Management at the University of Adelaide.
 With interests in software, mathematics and project management, I bring a strong technical proficiency to every project.
